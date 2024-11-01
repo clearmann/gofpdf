@@ -64,13 +64,13 @@ Best wishes to all of you.
 To install the package on your system, run
 
 ```shell
-go get github.com/jung-kurt/gofpdf
+go get github.com/clearmann/gofpdf
 ```
 
 Later, to receive updates, run
 
 ```shell
-go get -u -v github.com/jung-kurt/gofpdf/...
+go get -u -v github.com/clearmann/gofpdf/...
 ```
 
 ## Quick Start
@@ -265,20 +265,20 @@ for file attachments and annotations.
 [draw2d-site]: https://github.com/llgcode/draw2d
 [effective-go]: https://golang.org/doc/effective_go.html 
 [fpdf-site]: http://www.fpdf.org/
-[fpdf-test]: https://github.com/jung-kurt/gofpdf/blob/master/fpdf_test.go
+[fpdf-test]: https://github.com/clearmann/gofpdf/blob/master/fpdf_test.go
 [gfont]: https://fonts.google.com/
-[github]: https://github.com/jung-kurt/gofpdf
-[godoc]: https://pkg.go.dev/github.com/jung-kurt/gofpdf
-[gofpdf-fork]: https://techgaun.github.io/active-forks/index.html#jung-kurt/gofpdf
-[issue109]: https://github.com/jung-kurt/gofpdf/issues/109
-[jung]: https://github.com/jung-kurt/
-[last-commit]: https://github.com/jung-kurt/gofpdf/commit/603f56990463f011cb1dbb64ef7f872c1adc009a
-[license]: https://raw.githubusercontent.com/jung-kurt/gofpdf/master/LICENSE
+[github]: https://github.com/clearmann/gofpdf
+[godoc]: https://pkg.go.dev/github.com/clearmann/gofpdf
+[gofpdf-fork]: https://techgaun.github.io/active-forks/index.html#clearmann/gofpdf
+[issue109]: https://github.com/clearmann/gofpdf/issues/109
+[jung]: https://github.com/clearmann/
+[last-commit]: https://github.com/clearmann/gofpdf/commit/603f56990463f011cb1dbb64ef7f872c1adc009a
+[license]: https://raw.githubusercontent.com/clearmann/gofpdf/master/LICENSE
 [lint]: https://github.com/golang/lint
-[logo-old]: https://github.com/jung-kurt/gofpdf/raw/master/image/logo_gofpdf.jpg?raw=true
-[logo]: https://raw.githubusercontent.com/jung-kurt/gofpdf/master/image/logo_gofpdf.jpg
+[logo-old]: https://github.com/clearmann/gofpdf/raw/master/image/logo_gofpdf.jpg?raw=true
+[logo]: https://raw.githubusercontent.com/clearmann/gofpdf/master/image/logo_gofpdf.jpg
 [noto]: https://github.com/jsntn/webfonts/blob/master/NotoSansSC-Regular.ttf
 [pr]: https://help.github.com/articles/using-pull-requests/
-[test]: https://github.com/jung-kurt/gofpdf/blob/master/fpdf_test.go
+[test]: https://github.com/clearmann/gofpdf/blob/master/fpdf_test.go
 [unmaintained]: http://unmaintained.tech/
 [vet]: https://golang.org/cmd/vet/
